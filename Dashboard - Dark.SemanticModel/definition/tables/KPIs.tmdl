@@ -36,6 +36,9 @@ table KPIs
 	measure new_measure = "neww"
 		lineageTag: 3f03f207-2e25-4fd9-be79-0d288bec21b2
 
+	measure B1 = "B1"
+		lineageTag: e5c74dbb-c75f-40bd-bff7-8381fac1169a
+
 	column Product
 		dataType: string
 		lineageTag: fb0d72ed-8753-405b-8f40-9a68207666a2
