@@ -1,4 +1,100 @@
 {
   "version": "1.1.0",
-  "diagrams": []
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1420.3616394153596,
+            "y": 59.4674454113279
+          },
+          "nodeIndex": "dates",
+          "nodeLineageTag": "f6aefe9a-49cc-4f42-a1e7-d2ba4f55c45e",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1186.3616394153596,
+            "y": -26.5325545886721
+          },
+          "nodeIndex": "HS Parts",
+          "nodeLineageTag": "123d38c8-04e9-4aa5-af7f-0fdb85ad64fa",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 334.18475118062986,
+            "y": -31.065109177344198
+          },
+          "nodeIndex": "KPIs",
+          "nodeLineageTag": "1313b31d-ab65-4d82-96ff-4461ef0fc4dc",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 50,
+            "y": -50.000000000000028
+          },
+          "nodeIndex": "Planner",
+          "nodeLineageTag": "8699a35c-114b-4a29-9127-07f307960818",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 618.36163941535983,
+            "y": 44.259883455092506
+          },
+          "nodeIndex": "Qty",
+          "nodeLineageTag": "b6a65d10-202c-47fa-b06b-d1a5cff334da",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 902.36163941535972,
+            "y": -38.5325545886721
+          },
+          "nodeIndex": "Table",
+          "nodeLineageTag": "d871782a-831c-4fd8-9d49-4b200c9b7755",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
 }
