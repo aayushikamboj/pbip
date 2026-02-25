@@ -42,6 +42,9 @@ table KPIs
 	measure B2 = "B2"
 		lineageTag: 72b9033b-5cc2-49ee-8fb6-cbf8c08f7a46
 
+	measure Test = "Test measure Created by Abhishek Dhiman"
+		lineageTag: edf1d952-5239-42c6-90da-e9e53af3585d
+
 	column Product
 		dataType: string
 		lineageTag: fb0d72ed-8753-405b-8f40-9a68207666a2
