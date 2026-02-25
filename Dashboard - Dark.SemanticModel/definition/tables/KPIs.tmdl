@@ -35,6 +35,11 @@ table KPIs
 
 	measure B2 = "B2"
 		lineageTag: 72b9033b-5cc2-49ee-8fb6-cbf8c08f7a46
+	measure new_measure = "neww"
+		lineageTag: 3f03f207-2e25-4fd9-be79-0d288bec21b2
+
+	measure B1 = "B1"
+		lineageTag: e5c74dbb-c75f-40bd-bff7-8381fac1169a
 
 	column Product
 		dataType: string
